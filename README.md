@@ -1,2 +1,2 @@
-# turing-candidates
+# candidates
 Find the top software engineers.
