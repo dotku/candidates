@@ -63,10 +63,11 @@ tools.
 ### Master of Science (MS) in Computer Science
 New York University
 
-● Concentrated in Algorithms and Graphics. Related courses include Algorithms, Unix Systems,
+- Concentrated in Algorithms and Graphics. Related courses include Algorithms, Unix Systems,
 
 ### Networks & Mobile Systems, Computer Graphics, Motion Capture.
 
 Bachelor of Science (BS) in Information System
 Peking University Beijing, China
-● Concentrated in Natural Language Processing and Database
+
+- Concentrated in Natural Language Processing and Database
