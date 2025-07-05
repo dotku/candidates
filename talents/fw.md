@@ -8,13 +8,13 @@ highly visible platforms like Google Cloud and enterprise SaaS applications. Kno
 migrations, streamlining data pipelines, and leading cross-functional engineering initiatives in high-scale
 environments.
 
-## Core Competencies
+### Core Competencies
 
 Cloud & Infrastructure | Languages & Frameworks | Data Systems & Analytics |
 Web & SaaS Development | Testing & Monitoring | Migration |
 Cross-Functional Collaboration | Leadership & Impact
 
-## Technical Skills
+### Technical Skills
 
 - Python, Java, Typescript, SQL
 - Google Cloud, Git, Salesforce
