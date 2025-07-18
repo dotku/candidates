@@ -1,5 +1,6 @@
 # candidates
-Find the top software engineers.
+
+A candidate filter tool for recuriters.
 
 ## KOL
 
